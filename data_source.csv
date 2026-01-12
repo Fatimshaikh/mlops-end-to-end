@@ -1,0 +1,5 @@
+ 
+age,monthly_charges,tenure,total_charges,churn
+25,70,12,840,0
+45,90,24,2160,1
+30,60,8,480,0
